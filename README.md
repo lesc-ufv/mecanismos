@@ -1,4 +1,4 @@
-# Mecanismos Cross-chain - SRBC 2024
+# Mecanismos Cross-chain - SBRC 2024
 
 Mecanismos Cross-chain
   Cross-chain-notarial
